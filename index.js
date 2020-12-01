@@ -445,3 +445,5 @@ command(client, ['cc', 'clearchannel'], message => {
     })
 
 client.login(process.env.DTMB_TOKEN)
+
+//New Version
